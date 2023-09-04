@@ -17,8 +17,8 @@ Its adjustment is always done with an incoming signal close to (0 dB), easy to g
 ## Building from source
 To build from source, you must have CMake installed.
 ```
-$ git clone --recursive https://github.com/cid2rrrr/CookyTape
-$ cd CookyTape
+$ git clone --recursive https://github.com/cid2rrrr/CookyTape-VST
+$ cd CookyTape-VST
 $ cmake -Bbuild
 $ cmake --build build --config Release
 ```
